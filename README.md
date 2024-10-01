@@ -8,8 +8,8 @@ In _Aminalyst_, there are several folders:
 1. Data Analytics Reports in R and Python
 2. Diamond Price Research Project (Excel)
 3. Walmart Sales Analysis (Excel, BigQuery, Grafana, SQL)
-4. Career Service Project (SQL)
-5. Self-Learn Projects
+4. Home Anlysis Project (SQL)
+5. Self-Learn Projects ( To be Continued)
 
 
  
